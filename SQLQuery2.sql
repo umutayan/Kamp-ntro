@@ -9,5 +9,6 @@ Select * from Products where CategoryID=1 or CategoryID=3
 
 select * from Products where CategoryID=1 and UnitPrice>=10
 
+select * from Products order by UnitPrice
 
 

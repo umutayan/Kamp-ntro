@@ -7,5 +7,7 @@ Select * from Customers where City = 'Berlin'
 --case insensitive
 Select * from Products where CategoryID=1 or CategoryID=3
 
+select * from Products where CategoryID=1 and UnitPrice>=10
+
 
 
